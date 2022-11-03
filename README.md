@@ -1,6 +1,60 @@
-<!doctype html>
-<html lang=pt-br>
-<html>
-<head>
-<title>meio ambiente</title>
-<p>*NÃO MALTRATE OS ANIMAIS <p/>
+
+
+<div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="g-cols wpb_row  type_default valign_middle vc_inner"><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 class="w-post-elm post_title us_custom_9e2863ac entry-title" itemprop="headline">COMO A LIMPEZA PODE AJUDAR O MEIO AMBIENTE?</h1></div></div></div><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><ol class="g-breadcrumbs us_custom_ae7a28be separator_icon align_left" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/"><span itemprop="name">Início</span></a><meta itemprop="position" content="1"></li><li class="g-breadcrumbs-separator"><i class="far fa-angle-right"></i></li><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/category/dicas-de-limpeza/"><span itemprop="name">Dicas de Limpeza</span></a><meta itemprop="position" content="2"></li><li class="g-breadcrumbs-separator"><i class="far fa-angle-right"></i></li><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/como-a-limpeza-pode-ajudar-o-meio-ambiente/"><span itemprop="name">COMO A LIMPEZA PODE AJUDAR O MEIO AMBIENTE?</span></a><meta itemprop="position" content="3"></li></ol></div></div></div></div></div></div></div></div></div></section>
+<section class="l-section height_auto for_sidebar at_right"><div class="l-section-h"><div class="g-cols type_default valign_top"><div class="vc_col-sm-9 vc_column_container l-content"><div class="vc_column-inner"><div class="wpb_wrapper"><section class="l-section wpb_row height_medium"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-post-elm post_image stretched"><img width="626" height="626" src="https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570.jpg" data-lazy-type="image" data-src="https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570.jpg" class="attachment-large size-large wp-post-image lazy-loaded" alt="" srcset="" data-srcset="https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570.jpg 626w, https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570-300x300.jpg 300w, https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570-150x150.jpg 150w, https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570-450x450.jpg 450w, https://ecolifequimicabrasil.com.br/wp-content/uploads/2021/05/salve-o-conceito-de-planeta-com-pessoas-cuidando-da-terra_23-2148522570-250x250.jpg 250w" sizes="(max-width: 626px) 100vw, 626px"></div><div class="w-separator size_small"></div><div class="w-post-elm post_content" itemprop="text"><p style="text-align: center;"><span style="font-size: 24px;"><strong>Confira como algumas ações no processo de limpeza podem ajudar a cuidar do meio ambiente</strong></span></p>
+<p>Hoje, 05 de junho de 2021, é o Dia Mundial do Meio Ambiente. Esta data foi instituída pela ONU (Organização das Nações Unidas) e tem como objetivo principal chamar a atenção de todas as esferas da população para os problemas ambientais e para a importância da preservação dos recursos naturais, que até então eram considerados, por muitos, inesgotáveis.</p>
+<p>As empresas que estão preocupadas com o futuro das próximas gerações e a sustentabilidade possuem várias ações em torno do meio ambiente, afim de reduzir os impactos gerados em suas atividades. Entre essas ações, está o processo de higiene e limpeza.</p>
+<p>Os enxágues, por exemplo, impactam diretamente na utilização de recursos naturais, que estão a cada minuto, mais escassos. Além disso, o descarte de embalagens na natureza, que levam dezenas de anos para se decompor, agravam e aceleram o processo de degradação do ambiente.</p>
+<p>Mas, se a limpeza é um item essencial para saúde e sobrevivência da vida humana, como as empresas podem balancear isso, de forma a preservar seus clientes e funcionários e ainda ser mais sustentáveis?</p>
+<p>Confira abaixo 03 atitudes que você pode adotar hoje e ajudar as próximas gerações a terem um ambiente mais sustentável:</p>
+<ul>
+<li>Opte por produtos que contenham formulações 100% biodegradáveis. Tais produtos, possuem em suas composições agentes biológicos naturais necessários para minimizar a contaminação ao solo, rios e do ar;</li>
+<li>Otimize seus processos de limpeza: fórmulas que demandam retrabalhos ou reaplicações podem não estar sendo eficientes à sua demanda, causando desperdícios de recursos, tempo e mão de obra;</li>
+<li>Utilize produtos concentrados, que entregam maior rendimento, agem na medida certa na sujidade, sem danificar sua superfície e ainda reduzem seu descarte de embalagens.</li>
+</ul>
+<p>Note que atitudes simples poderão gerar resultados significativamente positivos, auxiliando você e sua empresa atingir as metas de sustentabilidade estabelecidas. Você ainda poderá garantir que as futuras gerações receberão um planeta mais limpo, mais conscientizado e com menos desperdício.</p>
+<p>Aqui na Ecolife, cada produto foi cuidadosamente desenvolvido seguindo os critérios ecológicos e sustentáveis, pois acreditamos que ser ECO vai muito além do nome! É um conjunto de ações tomadas diariamente, garantindo a nossos clientes, funcionários e parceiros, que temos um compromisso firmado com o planeta.</p>
+<p>Quer conhecer mais de perto nossas ações?</p>
+<p>Venha falar conosco! Basta clicar <span style="text-decoration: underline;"><span style="color: #000080; text-decoration: underline;"><a style="color: #000080; text-decoration: underline;" href="https://api.whatsapp.com/send?phone=5515991771759&amp;text=&amp;source=&amp;data=&amp;app_absent=">aqui</a></span></span>, estamos ansiosos em compartilhar com você como o mundo pode ser mais ECO.</p>
+</div><div class="w-separator size_small with_line width_default thick_1 style_solid color_border align_center"><div class="w-separator-h"></div></div><div class="w-hwrapper align_left valign_top wrap"><div class="w-post-elm post_taxonomy us_custom_ea2be81a style_simple"><span class="w-post-elm-before">Categoria: </span><a href="https://ecolifequimicabrasil.com.br/category/dicas-de-limpeza/">Dicas de Limpeza</a></div><div class="w-post-elm post_taxonomy us_custom_ea2be81a style_simple"><span class="w-post-elm-before">Tags: </span><a href="https://ecolifequimicabrasil.com.br/category/dicas-de-limpeza/">Dicas de Limpeza</a></div></div></div></div></div></div></div></section><section class="l-section wpb_row height_medium color_secondary"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><h4 style="text-align: center" class="vc_custom_heading">Agende uma visita com nosso departamento comercial</h4></div></div></div></div></div></section>
+</div></div></div><div class="vc_col-sm-3 vc_column_container l-sidebar"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://ecolifequimicabrasil.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar">
+			</form></div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">Posts recentes</h3>		<ul>
+											<li>
+					<a href="https://ecolifequimicabrasil.com.br/inauguracao-da-nova-planta-fabril/">INAUGURAÇAO DA NOVA PLANTA FABRIL!!!</a>
+									</li>
+											<li>
+					<a href="https://ecolifequimicabrasil.com.br/dia-munidal-da-agua-20-03-2022/">DIA MUNIDAL DA ÁGUA 20/03/2022</a>
+									</li>
+											<li>
+					<a href="https://ecolifequimicabrasil.com.br/ecolife-no-auto-esporte-20-03-2022/">ECOLIFE NO AUTO ESPORTE 20/03/2022</a>
+									</li>
+											<li>
+					<a href="https://ecolifequimicabrasil.com.br/sanitizantes-como-escolher-o-melhor-para-sua-operacao/">SANITIZANTES: COMO ESCOLHER O MELHOR PARA SUA OPERAÇÃO?</a>
+									</li>
+											<li>
+					<a href="https://ecolifequimicabrasil.com.br/como-a-limpeza-pode-ajudar-o-meio-ambiente/" aria-current="page">COMO A LIMPEZA PODE AJUDAR O MEIO AMBIENTE?</a>
+									</li>
+					</ul>
+		</div><div id="categories-2" class="widget widget_categories"><h3 class="widgettitle">Categorias</h3>		<ul>
+				<li class="cat-item cat-item-8"><a href="https://ecolifequimicabrasil.com.br/category/automotivo-limpeza-e-conservacao/">Automotivo – Limpeza e Conservação</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://ecolifequimicabrasil.com.br/category/datas-comemorativas/">Datas Comemorativas</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://ecolifequimicabrasil.com.br/category/dicas-de-limpeza/">Dicas de Limpeza</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://ecolifequimicabrasil.com.br/category/sem-categoria/">Sem categoria</a>
+</li>
+		</ul>
+			</div></div></div></div></div></div></section></main>
+
+</div>
+	<footer id="page-footer" class="l-footer" itemscope="" itemtype="https://schema.org/WPFooter">
+		<section class="l-section wpb_row us_custom_62e46706 height_auto color_alternate"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="g-cols wpb_row  type_default valign_middle vc_inner"><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 class="w-post-elm post_title us_custom_9e2863ac entry-title" itemprop="headline">COMO A LIMPEZA PODE AJUDAR O MEIO AMBIENTE?</h1></div></div></div><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><ol class="g-breadcrumbs us_custom_ae7a28be separator_icon align_left" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/"><span itemprop="name">Início</span></a><meta itemprop="position" content="1"></li><li class="g-breadcrumbs-separator"><i class="far fa-angle-right"></i></li><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/category/dicas-de-limpeza/"><span itemprop="name">Dicas de Limpeza</span></a><meta itemprop="position" content="2"></li><li class="g-breadcrumbs-separator"><i class="far fa-angle-right"></i></li><li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://ecolifequimicabrasil.com.br/como-a-limpeza-pode-ajudar-o-meio-ambiente/"><span itemprop="name">COMO A LIMPEZA PODE AJUDAR O MEIO AMBIENTE?</span></a><meta itemprop="position" content="3"></li></ol></div></div></div></div></div></div></div></div></div></section>
+	</footer>
+		<a class="w-toplink pos_left" href="#" title="Voltar ao Topo" aria-hidden="true"></a>
+		<a class="w-header-show" href="javascript:void(0);">
